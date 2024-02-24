@@ -1,2 +1,2 @@
--Download the swisspost.zip file and past it into your BeamNG.drive Modfoler.
+-Download the swisspost.zip file under the relase section and past it into your BeamNG.drive Modfoler.
 -Enjoy the Skin :)
